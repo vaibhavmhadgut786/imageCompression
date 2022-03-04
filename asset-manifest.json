@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/imageCompression1/static/css/main.22a28165.css",
-    "main.js": "/imageCompression1/static/js/main.b8272225.js",
-    "static/js/787.dee9c94c.chunk.js": "/imageCompression1/static/js/787.dee9c94c.chunk.js",
-    "index.html": "/imageCompression1/index.html",
-    "main.22a28165.css.map": "/imageCompression1/static/css/main.22a28165.css.map",
-    "main.b8272225.js.map": "/imageCompression1/static/js/main.b8272225.js.map",
-    "787.dee9c94c.chunk.js.map": "/imageCompression1/static/js/787.dee9c94c.chunk.js.map"
+    "main.css": "/imageCompression/static/css/main.22a28165.css",
+    "main.js": "/imageCompression/static/js/main.1f5a6fba.js",
+    "static/js/787.dee9c94c.chunk.js": "/imageCompression/static/js/787.dee9c94c.chunk.js",
+    "index.html": "/imageCompression/index.html",
+    "main.22a28165.css.map": "/imageCompression/static/css/main.22a28165.css.map",
+    "main.1f5a6fba.js.map": "/imageCompression/static/js/main.1f5a6fba.js.map",
+    "787.dee9c94c.chunk.js.map": "/imageCompression/static/js/787.dee9c94c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22a28165.css",
-    "static/js/main.b8272225.js"
+    "static/js/main.1f5a6fba.js"
   ]
 }
